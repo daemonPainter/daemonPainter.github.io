@@ -29,6 +29,28 @@ en-CA:
 en-AU:
   <<: *EN
 
+## => Italiano
+########################
+it: &IT
+  SUBSCRIBE               : "Iscriviti"
+  READMORE                : "Continua"
+  SEARCH                  : "Cerca"
+  CANCEL                  : "Annulla"
+  VIEWS                   : "visualizzazioni"
+  LAST_UPDATED            : "Ultimo aggiornamento"
+  PREVIOUS                : "PRECEDENTE"
+  NEXT                    : "SUCCESSIVO"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] articoli, [PAGE_COUNT] pagine."
+  LICENSE_ANNOUNCE        : "Questo lavoro è sotto licenza [LICENSE]."
+  POST_ON_GITHUB          : "Modifica in Github"
+  FOLLOW_ME               : "Seguimi su [NAME]."
+  FOLLOW_US               : "Seguici su [NAME]."
+  EMAIL_ME                : "Scrivimi una Email."
+  EMAIL_US                : "Scrivici una Email."
+  COPYRIGHT_DATES         : "2019"
+
 ## => Simplified Chinese
 ########################
 zh-Hans: &ZH_HANS

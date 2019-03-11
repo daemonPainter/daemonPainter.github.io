@@ -5,6 +5,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
+      it-IT   : &IT       Archivio
       zh-Hans : &ZH_HANS  归档
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
